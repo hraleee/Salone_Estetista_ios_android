@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Beauty Center",
+    "slug": "beauty-center-client",
+    "version": "1.0.0",
+    "newArchEnabled": false,
+    "ios": {
+      "bundleIdentifier": "com.beautycenter.client"
+    },
+    "android": {
+      "package": "com.beautycenter.client"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
